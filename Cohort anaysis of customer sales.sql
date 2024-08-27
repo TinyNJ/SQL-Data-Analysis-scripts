@@ -6,7 +6,7 @@
 -- Sales and Transaction count over years since the business started, it looks like it's reasonably
 -- heathy, but is it, could it be better ?
 --
--- So as Im a punk analyst I will look into this without being asked and come back to the CEO with
+-- I will look into this without being asked and come back to the CEO with
 -- my observations 
 
 -- Quick summary of sales orders/value over the years
